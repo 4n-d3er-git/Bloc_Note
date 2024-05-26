@@ -1,6 +1,6 @@
-# flutter_entrainement
+# Bloc_Note
 
-A new Flutter project.
+Une application de bloc note.
 
 ## Getting Started
 
